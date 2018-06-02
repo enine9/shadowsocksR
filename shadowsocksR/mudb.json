@@ -1,0 +1,14 @@
+[
+    {
+        "d": 15377561,
+        "enable": 1,
+        "method": "chacha20",
+        "obfs": "tls1.2_ticket_auth_compatible",
+        "passwd": "z171071891",
+        "port": 10087,
+        "protocol": "auth_sha1_v4_compatible",
+        "transfer_enable": 9007199254740992,
+        "u": 94854,
+        "user": "10087"
+    }
+]
